@@ -1,4 +1,4 @@
-package com.iboriphuth.demo.hello;
+package com.boriphuth.demo.hello;
 
 import lombok.Data;
 
