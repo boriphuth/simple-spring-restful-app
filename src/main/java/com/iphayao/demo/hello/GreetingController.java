@@ -1,4 +1,4 @@
-package com.iphayao.demo.hello;
+package com.iboriphuth.demo.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

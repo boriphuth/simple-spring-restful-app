@@ -1,4 +1,4 @@
-package com.iphayao.demo.hello;
+package com.iboriphuth.demo.hello;
 
 import lombok.Data;
 

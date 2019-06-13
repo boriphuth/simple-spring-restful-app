@@ -1,6 +1,6 @@
-package com.iphayao.demo;
+package com.iboriphuth.demo;
 
-import com.iphayao.demo.hello.GreetingController;
+import com.iboriphuth.demo.hello.GreetingController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
